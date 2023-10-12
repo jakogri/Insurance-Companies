@@ -1,0 +1,10 @@
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+#IDE files
+.idea
+.idea/*
+#do not track node_modules
+node_modules
+/node_modules
